@@ -1,1 +1,15 @@
-Test
+Call of Duty: Ghosts
+Memory Addresses
+
+Multiplayer:
+cg_fov: .exe+
+cg_fovscale: .exe+
+com_maxfps: .exe+
+level: .exe+
+prestige: .exe+
+
+Extinction: .exe+
+teeth: .exe+
+level: .exe+
+prestige: .exe+
+skill points: .exe+
