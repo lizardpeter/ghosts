@@ -1,5 +1,4 @@
-# Call of Duty: Ghosts
-## Memory Addresses
+# Call of Duty: Ghosts - Memory Addresses
 
 ## Multiplayer:
 
