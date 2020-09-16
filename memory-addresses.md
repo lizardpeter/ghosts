@@ -16,6 +16,6 @@ prestige: .exe+
 skill points: .exe+
 
 | Variable | Code | Description | Type | Address
-| --- | --- |
+| --- | --- | --- | --- | --- |
 | FOV | cg_fov | Changes the hipfire FOV | Float | .exe+
 | git diff | Show file differences that haven't been staged |
