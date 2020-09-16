@@ -15,7 +15,7 @@ level: .exe+
 prestige: .exe+
 skill points: .exe+
 
-| Command | Description |
+| Variable | Code | Description | Type | Address
 | --- | --- |
-| git status | List all new or modified files |
+| FOV | cg_fov | Changes the hipfire FOV | Float | .exe+
 | git diff | Show file differences that haven't been staged |
