@@ -1,7 +1,7 @@
-Call of Duty: Ghosts
-Memory Addresses
+#Call of Duty: Ghosts
+##Memory Addresses
 
-Multiplayer:
+##Multiplayer:
 
 cg_fov: .exe+
 cg_fovscale: .exe+
@@ -9,13 +9,16 @@ com_maxfps: .exe+
 level: .exe+
 prestige: .exe+
 
-Extinction:
+##Extinction:
 teeth: .exe+
 level: .exe+
 prestige: .exe+
 skill points: .exe+
 
-| Variable | Code | Description | Type | Address
+| Variable | Code | Description | Type | Address |
 | --- | --- | --- | --- | --- |
-| FOV | cg_fov | Changes the hipfire FOV | Float | .exe+
-| git diff | Show file differences that haven't been staged |
+| FOV | cg_fov | Changes the hipfire FOV | Float | .exe+ |
+| Scale | cg_fovscale | Changes the ADS FOV | Float | .exe+ |
+| FPS | com_maxfps | Changes the max FPS | ?? | .exe+ |
+| level | ?? | Changes the player's level | ?? | .exe+ |
+| prestige | ?? | Changes the player's prestige | ?? | .exe+ |
