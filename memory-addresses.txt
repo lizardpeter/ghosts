@@ -8,7 +8,7 @@ com_maxfps: .exe+
 level: .exe+
 prestige: .exe+
 
-Extinction: .exe+
+Extinction:
 teeth: .exe+
 level: .exe+
 prestige: .exe+
