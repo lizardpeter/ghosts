@@ -13,7 +13,7 @@
 ## Extinction:
 
 | Variable | Code | Description | Type | Address | Pointer | Offset |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | teeth | ??? | Changes the player's collected teeth | ??? | .exe+ | ??? | ??? |
 | level | ??? | Changes the player's level | ??? | .exe+ | ??? | ??? |
 | prestige | ??? | Changes the player's prestige | ??? | .exe+ | ??? | ??? |
