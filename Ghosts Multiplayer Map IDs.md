@@ -4,49 +4,50 @@
 
 | Map | Code |
 | --- | --- |
-| Ascend | mp_refraction |
-| Bio Lab | mp_lab2 |
-| Comeback | mp_comeback |
-| Defender | mp_laser2 |
-| Detroit | mp_detroit |
-| Greenband | mp_greenband |
-| Horizon | mp_levity |
-| Instinct | mp_instinct |
-| Recovery | mp_recovery |
-| Retreat | mp_venus |
-| Riot | mp_prison |
-| Solar | mp_solar |
-| Terrace | mp_terrace |
-| Atlas Gorge | mp_dam |
+| Chasm | mp_chasm |
+| Flooded | mp_flooded |
+| Freight | mp_frag |
+| Octane | mp_dart |
+| Overload | mp_zebra |
+| Prison Break | mp_prisonbreak |
+| Siege | mp_hashima |
+| Sovereign | mp_sovereign |
+| Stonehaven | mp_skeleton |
+| Stormfront | mp_fahrenheit |
+| Strikezone | mp_strikezone |
+| Tremor | mp_lonestar |
+| Warhawk | mp_warhawk |
+| Whiteout | mp_snow |
+| Free Fall | mp_descent_new |
 
-## DLC 1: Havoc
+## DLC 1: Devastation
 | Map | Code |
 | --- | --- |
-| Core | mp_lost |
-| Drift | mp_torqued |
-| Slideshow | mp_clowntown3 |
-| Urban | mp_urban |
+| Behemoth | mp_ca_behemoth |
+| Collision | mp_ca_impact |
+| Ruins | mp_battery3 |
+| Unearthed | mp_dome_ns |
 
-## DLC 2: Ascendance
+## DLC 2: Invasion
 | Map | Code |
 | --- | --- |
-| Chop Shop | mp_spark |
-| Climate | mp_climate_3 |
-| Perplex | mp_perplex_1 |
-| Site 224 | mp_blackbox |
+| Departed | mp_zulu |
+| Favela | mp_favela_iw6 |
+| Mutiny | mp_pirate |
+| Pharaoh | mp_dig |
 
-## DLC 3: Supremacy
+## DLC 3: Nemesis
 | Map | Code |
 | --- | --- |
-| Compound | mp_sector17 |
-| Kremlin | mp_kremlin |
-| Parliament | mp_bigben2 |
-| Skyrise | mp_highrise2 |
+| Dynasty | mp_conflict |
+| Goldrush | mp_mine |
+| Showtime | mp_shipment_ns |
+| Subzero | mp_zerosub |
 
-## DLC 4: Reckoning
+## DLC 4: Onslaught
 | Map | Code |
 | --- | --- |
-| Fracture | mp_fracture |
-| Overload | mp_lair |
-| Quarantine | mp_liberty |
-| Swarm | mp_seoul2 |
+| Bayview | mp_ca_rumble |
+| Containment | mp_ca_red_river |
+| Fog | mp_swamp |
+| Ignition | mp_boneyard_ns |
